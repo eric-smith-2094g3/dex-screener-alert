@@ -67,4 +67,4 @@ To run a single check and exit immediately (useful for scheduling with Windows T
 python monitor.py --once
 ```
 
-<!-- last-checked: 2026-10-01 -->
+<!-- last-checked: 2026-10-02 -->
